@@ -6,9 +6,11 @@
 <h1 align="center">Hi there, I'm Andrey 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+### About me:
+<img src="https://upload.wikimedia.org/wikipedia/ru/8/81/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9D%D0%98%D0%A3_%D0%92%D0%A8%D0%AD.svg" title="HSE" alt="hse" width="25" height="25" align="center"/> HSE Lyceum Student'25.
+- 
 
-
-**ma1navgn/ma1navgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**ma1navgn/ma1navgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
