@@ -35,6 +35,6 @@
 </div>
 
 ### How to reach me:
-<img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/telegram.png" title="Telegram" alt="tg" width="25" height="25" align="center"/> <a href="t.me/bessolof">Telegram</a><br>
-<img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/vkontakte.png" title="VK" alt="vk" width="25" height="25" align="center"/> <a href="vk.com/ma1navgn">VK</a><br>
-<img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/instagram.png" title="Instagram" alt="inst" width="25" height="25" align="center"/> <a href="instagram.com/bessolovvv">Instagram</a><br>
+<img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/telegram.png" title="Telegram" alt="tg" width="25" height="25" align="center"/> <a href="https://t.me/bessolof">Telegram</a><br>
+<img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/vkontakte.png" title="VK" alt="vk" width="25" height="25" align="center"/> <a href="https://vk.com/ma1navgn">VK</a><br>
+<img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/instagram.png" title="Instagram" alt="inst" width="25" height="25" align="center"/> <a href="https://instagram.com/bessolovvv">Instagram</a><br>
