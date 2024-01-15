@@ -14,7 +14,9 @@
 - Got interested in Data Analysis in 2023, learned <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" title="Pandas module for Python" alt="pandas" width="25" height="25" align="center"/> and became the II degree winner of <a href="dano.hse.ru">Data Analysis National Olympiad (DANO)</a>, which is held by leading tech-universities of Russia (<a href="https://www.hse.ru/en/">HSE</a>, <a href="https://en.itmo.ru/en/">ITMO</a>, <a href="https://innopolis.ru/en/services/innopolis-university">Innopolis</a>) and <a href="https://tinkoff-group.com/company-info/summary/">Tinkoff Bank</a>.
 
 ### How to reach me:
-<!--<img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/telegram.png" title="Telegram" alt="tg" width="25" height="25" align="center"/>
+<img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/telegram.png" title="Telegram" alt="tg" width="25" height="25" align="center"/> <a href="t.me/bessolof">Telegram</a><br>
+<img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/vkontakte.png" title="VK" alt="vk" width="25" height="25" align="center"/> <a href="vk.com/ma1navgn">VK</a><br>
+<img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/instagram.png" title="Instagram" alt="inst" width="25" height="25" align="center"/> <a href="instagram.com/bessolovvv">Instagram</a><br>
 
 <!--**ma1navgn/ma1navgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
