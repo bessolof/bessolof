@@ -8,7 +8,7 @@
 
 ### About me:
 <img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/lyceum.png" title="HSE" alt="hse" width="68" height="50" align="center"/> HSE Lyceum Student'25
-- Have confirmed <a href="https://www.efset.org/cert/xuidFL">C1</a>  level
+- Have confirmed <a href="https://www.efset.org/cert/xuidFL">C1 Advanced English</a> level
 - Was introduced to programming in school with <img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/pascal.jpg" title="pascal" alt="pascal" width="25" height="25" align="center"/>
 - Started programming in 2020 on <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="python" width="25" height="25" align="center"/>
 - Started actively studying programming in 2022 on <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cpp" width="25" height="25" align="center"/> and got a certificate for successful course completing from <a href="https://www.2035.university/">University 2035</a>.
