@@ -8,6 +8,8 @@
 
 ### About me:
 <img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/lyceum.png" title="HSE" alt="hse" width="68" height="50" align="center"/> HSE Lyceum Alumni(2023-2025)
+
+<!--<img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/cu.png" title="CU" alt="Central University" width="100" height="40" align="center"/> Central University Student'29-->
 - Have confirmed <a href="https://www.efset.org/cert/xuidFL">C1 Advanced English</a> level
 - Was introduced to <img src="https://raw.githubusercontent.com/ma1navgn/ma1navgn/main/pascal.jpg" title="pascal" alt="pascal" width="25" height="25" align="center"/> in school.
 - Started programming in 2020 on <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="python" width="25" height="25" align="center"/>
