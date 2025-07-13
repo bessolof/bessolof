@@ -35,4 +35,4 @@
 </div>
 
 ### How to reach me:
-Feel free to contact me on <a href="https://t.me/bessolof">Telegram</a>, <a href="https://vk.com/ma1navgn">VK</a>, <a href="https://instagram.com/ma1navgn">Instagram</a> and via <a href="mailto:aaspirikhin@edu.hse.ru">Email</a>.
+Feel free to contact me on <a href="https://t.me/bessolof">Telegram</a>, <a href="https://vk.com/ma1navgn">VK</a> and <a href="https://instagram.com/ma1navgn">Instagram</a>.
